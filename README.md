@@ -19,3 +19,4 @@ vb      https://github.com/easychina/learn (push)
 local modify
 Github modify
 
+Gitee modify
